@@ -84,7 +84,7 @@ The Youtube Search V3 API provides category IDs for different kinds of video con
 44	Trailers
 
 # Preprocessing ⚙️
-SKLearn's Standard Scaler has been used to preprocess the input. Their pickle dump file can be found in the `Scalers and Model` folder.
+SKLearn's Standard Scaler has been used to preprocess the input. Their pickle dump file can be found in the main repo.
 Simple image normalization has been used to get image pixel values between the range of 0 to 1.
 Images were also resized to `150*150` resolution before training.
 
