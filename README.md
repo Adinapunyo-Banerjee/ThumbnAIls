@@ -4,6 +4,9 @@ ThumbnAIls is an AI-powered web app that analyzes various video and channel stat
 # Training 🛠️
 The code for training the deep learning model can be found here: https://www.kaggle.com/code/adinapunyobanerjee/youtube-likes-and-views-predictor
 
+# Trained Model 💎
+The saved model, Version 1 can be downloaded here: https://drive.google.com/file/d/1g1m4N5TrF0D7-KQWrWrD5avJFBqQdkJx/view?usp=share_link
+
 # The Model 🔥
 So, the model takes in an image (the thumbnail to be predicted on) and the statistics of the video and channel.
 To avoid huge training times, the Convolutional base was taken from the VGG16 pretrained model hence implementing Transfer learning techniques.
